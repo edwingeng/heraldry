@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ironarachne/heraldry"
+	"github.com/edwingeng/heraldry"
 )
 
 // Arms is a combination of the blazon and the image filename

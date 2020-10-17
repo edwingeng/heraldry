@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ironarachne/heraldry"
+	"github.com/edwingeng/heraldry"
 	"github.com/kataras/iris"
 	"github.com/patrickmn/go-cache"
 )
